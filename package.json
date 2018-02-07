@@ -1,0 +1,24 @@
+{
+  "name": "contentful-to-algolia",
+  "version": "1.0.0",
+  "description": "contentful-to-algolia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contentful-labs/contentful-algolia-integration.git"
+  },
+  "author": "Charlie Chrisman <charlie@contentful.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/contentful-labs/contentful-algolia-integration/issues"
+  },
+  "homepage": "https://github.com/contentful-labs/contentful-algolia-integration#readme",
+  "dependencies": {
+    "algoliasearch": "^3.24.10",
+    "contentful": "^5.1.0",
+    "contentful-webhook-listener": "^1.0.2"
+  }
+}
